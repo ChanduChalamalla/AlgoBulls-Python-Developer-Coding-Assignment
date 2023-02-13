@@ -1,0 +1,4 @@
+Python packages used in the task
+
+1. requests --> Used to send requests to the Alpha Vintage to get the required data
+2' pandas --> used to transform the obtained data
